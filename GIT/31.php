@@ -1,0 +1,1 @@
+git log -p опцию --word-diff. 

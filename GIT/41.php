@@ -1,0 +1,1 @@
+echo Yii::$app->view->renderFile('@files/soccer.php');

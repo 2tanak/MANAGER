@@ -1,0 +1,1 @@
+gir remote rm test

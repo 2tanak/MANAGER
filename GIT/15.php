@@ -1,0 +1,1 @@
+git rm h.php
